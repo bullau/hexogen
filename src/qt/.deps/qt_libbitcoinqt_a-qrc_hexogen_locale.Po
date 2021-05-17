@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_hexogen_locale.o: qt/qrc_hexogen_locale.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

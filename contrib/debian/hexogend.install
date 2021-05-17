@@ -1,0 +1,3 @@
+usr/local/bin/hexogend usr/bin
+usr/local/bin/hexogen-cli usr/bin
+debian/examples/hexogen.conf etc/hexogen

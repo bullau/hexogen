@@ -1,0 +1,8 @@
+/usr/bin/hexogen-cli		--	gen_context(system_u:object_r:hexogen_exec_t,s0)
+/usr/sbin/hexogend		--	gen_context(system_u:object_r:hexogen_exec_t,s0)
+/usr/lib(64)?/hexogen/hexogend		--	gen_context(system_u:object_r:hexogen_exec_t,s0)
+
+/etc/hexogen(/.*)?		gen_context(system_u:object_r:hexogen_conf_t,s0)
+/var/lib/hexogen(/.*)?		gen_context(system_u:object_r:hexogen_var_lib_t,s0)
+
+(/var)?/run/hexogend(/.*)?   gen_context(system_u:object_r:hexogen_var_run_t,s0)

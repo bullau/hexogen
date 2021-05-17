@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Hexogen Core
+Comment=Hexogen P2P Cryptocurrency
+Comment[fr]=Hexogen, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Hexogen, eşten eşe kriptografik sanal para birimi
+Exec=hexogen-qt %u
+Terminal=false
+Type=Application
+Icon=hexogen128
+MimeType=x-scheme-handler/hexogen;
+Categories=Office;Finance;
+StartupWMClass=Hexogen-qt

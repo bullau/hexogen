@@ -1,0 +1,6 @@
+usr/local/bin/hexogen-qt usr/bin
+share/pixmaps/hexogen32.xpm usr/share/pixmaps
+share/pixmaps/hexogen16.xpm usr/share/pixmaps
+share/pixmaps/hexogen128.png usr/share/pixmaps
+debian/hexogen-qt.desktop usr/share/applications
+debian/hexogen-qt.protocol usr/share/kde4/services/
